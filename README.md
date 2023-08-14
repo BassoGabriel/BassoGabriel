@@ -1,4 +1,4 @@
-<!-- o uso de # principal (título), qunado utilio ## são subcategorias (subtitulos) -->
+<!-- o uso de # principal (título), qunado utilio ## são subcategorias (subtitulos) 
 
 # Gabriel Augusto Basso
 
