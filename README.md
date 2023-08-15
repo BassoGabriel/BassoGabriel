@@ -42,8 +42,9 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-##
+-->
+## 
+<!--
 ## Featured Languages
 <!-- Esta parte serve para deixar em destaque um item que eu queira no repositório principal -->
 <!-- Não esquecer de alterar o username e repo, para alterar de qual usuário estará olhando o repositório-->
@@ -52,6 +53,29 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassoGabriel&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+## Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+##
+## IDE
+<!-- ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white) -->
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+##
+## Others
+![GoogleSheet](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
 
 ##
 ## Contact
