@@ -21,10 +21,17 @@ Vídeo que explica como utilizar
 https://www.youtube.com/watch?v=bcAym0r4wCg
 -->
 
+##
+
+## Skills
 
 
+
+##
+
+## Details
 <!-- Esse código, faz um resumo do seu perfil-->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark)
 
 
 <!-- Esta parte serve para deixar em destaque um item que eu queira no repositório principal -->
