@@ -1,7 +1,13 @@
-<!-- o uso de # principal (título), qunado utilio ## são subcategorias (subtitulos) 
+<!-- o uso de # principal (título), qunado utilio ## são subcategorias (subtitulos) -->
 
-# Gabriel Augusto Basso
+<h1 align=center>Gabriel Augusto Basso</h1>
 
+## Abstract
+<p align=justify>I am currently developing myself in programming areas, focusing on the Java language, but while an opportunity to apply the knowledge already acquired does not arise, I have been working as a helpdesker in addition to studying Computer Engineering.</p>
+
+<p align=justify>In the current branch of helpdesker I have developed some tools that help in the professional day-to-day, automating backups and their restorations in the directories where they were, integrity verification and other simple things through the ".bat" batch script. I also developed an algorithm to inventory the computers on the company's internal network, which, after evaluation by the IT team, was implemented on the server to cover as many machines as possible.</p>
+
+<p align=justify>Despite some setbacks in academic training, I committed my effort to obtaining the maximum knowledge transmitted by the professors, as well as understanding, improving and enhancing programming techniques in the controlled environment.</p>
 
 
 <!--
@@ -18,7 +24,7 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 
 
 <!-- Esse código, faz um resumo do seu perfil-->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark)-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark) -->
 
 
 <!-- Esta parte serve para deixar em destaque um item que eu queira no repositório principal -->
