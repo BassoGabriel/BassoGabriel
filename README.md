@@ -55,5 +55,11 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 
 ##
 ## Contact
-
-
+<!-- Jeito 1 - somente imagem
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+-->
+<!-- Jeito 2 - link 
+Obs.: Gmail não colocar link
+-->
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' height='30'>](https://api.whatsapp.com/send/?phone=5519982703250&text=Ol%C3%A1%2C+vimos+seu+portfolio+no+GitHub+e+gostaria+de+nos+falarmos.+Qual+seria+o+melhor+momento+para+conversamos%3F&type=phone_number&app_absent=0)
