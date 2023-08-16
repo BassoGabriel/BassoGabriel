@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ## 
 <!--
 ## Featured Languages
+
 <!-- Esta parte serve para deixar em destaque um item que eu queira no repositório principal -->
 <!-- Não esquecer de alterar o username e repo, para alterar de qual usuário estará olhando o repositório-->
 <!-- Este código mostra as linguagens utilizadas em seu perfíl, serve para descatar a quantidade de liguagens de programções e qual o conhecimento dela no perfíl -->
@@ -53,7 +54,8 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassoGabriel&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-## Languages
+
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
