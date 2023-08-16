@@ -77,6 +77,11 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+
+##
+## Academic Institution
+[<img src='https://www.fho.edu.br//assets/img/logo-fho-menor.png' alt='fho' height='45'>](https://www.fho.edu.br/)
+
 ##
 ## Contact
 <!-- Jeito 1 - somente imagem
