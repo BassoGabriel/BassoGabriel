@@ -21,17 +21,10 @@ Vídeo que explica como utilizar
 https://www.youtube.com/watch?v=bcAym0r4wCg
 -->
 
-
-<!--
-##
-## Skills
--->
-
 ##
 ## Details
 <!-- Esse código, faz um resumo do seu perfil-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark)
-
 
 ##
 ## Featured Repositories
@@ -52,8 +45,7 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height='30'/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height='30'/>      
 
 ##
 ## IDE
@@ -71,7 +63,6 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-
 ##
 ## Academic Institution
 [<img src='https://www.fho.edu.br//assets/img/logo-fho-menor.png' alt='fho' height='45'>](https://www.fho.edu.br/)
@@ -85,7 +76,6 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 Obs.: Gmail não colocar link
 -->
 <div align=center>
-
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' title='gabrielaugustobasso@gmail.com' height='30'>
 <a href='https://api.whatsapp.com/send/?phone=5519982703250&text=Ol%C3%A1%2C+vimos+seu+portfolio+no+GitHub+e+gostaria+de+nos+falarmos.+Qual+seria+o+melhor+momento+para+conversamos%3F&type=phone_number&app_absent=0'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' title="+55 19 98270-3250" height='30'></a>
 </div>
