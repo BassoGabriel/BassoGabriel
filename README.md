@@ -34,15 +34,14 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark)
 
+-->
 
 ##
 ## Featured Repositories
 <!-- Destaque nos repositórios -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BassoGabriel&repo=initPython&theme=dark)](https://github.com/BassoGabriel/InitPython)
 
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 ## 
 <!--
 ## Featured Languages
