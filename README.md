@@ -30,8 +30,9 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ## Featured Repositories
 <!-- Destaque nos repositórios -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BassoGabriel&repo=initPython&theme=dark)](https://github.com/BassoGabriel/InitPython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BassoGabriel&repo=SimuladorAssembly&theme=dark)](https://github.com/BassoGabriel/SimuladorAssembly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BassoGabriel&repo=LotsBath&theme=dark)](https://github.com/BassoGabriel/LotsBath)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BassoGabriel&repo=SimuladorAssembly&theme=dark)](https://github.com/BassoGabriel/SimuladorAssembly)
 
 
 ## 
