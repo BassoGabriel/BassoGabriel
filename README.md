@@ -21,10 +21,14 @@ Vídeo que explica como utilizar
 https://www.youtube.com/watch?v=bcAym0r4wCg
 -->
 
+<!--
 ##
 ## Details
 <!-- Esse código, faz um resumo do seu perfil-->
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoGabriel&show_icons=true&theme=dark)
+-->
+
 
 ##
 ## Featured Repositories
