@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 <!-- Este código mostra as linguagens utilizadas em seu perfíl, serve para descatar a quantidade de liguagens de programções e qual o conhecimento dela no perfíl -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassoGabriel&layout=donut&theme=dark)](https://github.com/BassoGabriel?tab=repositories)
 <br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BassoGabriel&layout=compact&theme=dark)](https://github.com/BassoGabriel?tab=repositories).
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BassoGabriel&layout=compact&theme=dark)](https://github.com/anuraghazra/BassoGabriel?tab=repositories).
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
