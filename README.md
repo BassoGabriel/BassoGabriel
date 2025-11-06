@@ -69,6 +69,7 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 ## Academic Institution
 [<img src='https://www.fho.edu.br//assets/img/logo-fho-menor.png' alt='fho' height='45'>](https://www.fho.edu.br/)
 
+<!--
 ##
 ## Contact
 <!-- Jeito 1 - somente imagem
@@ -77,8 +78,9 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 <!-- Jeito 2 - link 
 Obs.: Gmail não colocar link
 -->
+<!--
 <div align=center>
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' title='gabrielaugustobasso@gmail.com' height='30'>
 <!--<a href='https://api.whatsapp.com/send/?phone=5519982703250&text=Ol%C3%A1%2C+vimos+seu+portfolio+no+GitHub+e+gostaria+de+nos+falarmos.+Qual+seria+o+melhor+momento+para+conversamos%3F&type=phone_number&app_absent=0'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' title="+55 19 98270-3250" height='30'></a>-->
-<a href='https://www.linkedin.com/in/gabriel-augusto-basso-1102b4ab/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'></a>
+<!--<a href='https://www.linkedin.com/in/gabriel-augusto-basso-1102b4ab/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'></a>
 </div>
