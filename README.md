@@ -43,13 +43,14 @@ https://www.youtube.com/watch?v=bcAym0r4wCg
 <!-- Este código mostra as linguagens utilizadas em seu perfíl, serve para descatar a quantidade de liguagens de programções e qual o conhecimento dela no perfíl -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassoGabriel&layout=donut&theme=dark)](https://github.com/BassoGabriel?tab=repositories)
 <br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BassoGabriel&layout=compact&theme=dark)](https://github.com/anuraghazra/BassoGabriel?tab=repositories).
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BassoGabriel&layout=compact&theme=dark)](https://github.com/anuraghazra/BassoGabriel?tab=repositories).-->
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height='30'/>      
 
 ##
